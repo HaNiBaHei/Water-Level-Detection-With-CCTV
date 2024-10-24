@@ -103,7 +103,6 @@ water-level-monitoring/
 │   └── index.html         # Dashboard HTML file
 ├── app.py                 # Main Python script
 ├── .env                   # Environment variables (not committed)
-├── requirements.txt       # List of dependencies
 └── README.md              # This README file
 ```
 
