@@ -1,4 +1,4 @@
-# Water-Level-Detection-With-CCTV
+# Water-Level-Detection-With-IP-Camera
 
 This project is a **Water Level Monitoring System** that:
 - Captures real-time video streams from an IP camera.
