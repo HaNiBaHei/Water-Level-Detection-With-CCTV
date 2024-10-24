@@ -44,7 +44,7 @@ This project is a **Water Level Monitoring System** that:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
+   git clone <this-repository-url>
    cd water-level-monitoring
    ```
 
