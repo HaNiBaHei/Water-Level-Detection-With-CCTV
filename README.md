@@ -64,13 +64,13 @@ This project is a **Water Level Monitoring System** that:
    Create a `.env` file in the project directory with the following content:
 
    ```plaintext
-   INFLUXDB_URL=http://localhost:8086
+   INFLUXDB_URL=your_influxdb_url
    INFLUXDB_TOKEN=your_influxdb_token
    INFLUXDB_ORG=your_org
    INFLUXDB_BUCKET=your_bucket
-   CAMERA_USERNAME=admin
-   CAMERA_PWD=camera01
-   CAMERA_IP=169.254.185.63
+   CAMERA_USERNAME=your_camera_username
+   CAMERA_PWD=your_camera_password
+   CAMERA_IP=your_camera_ip
    ```
 
 ---
@@ -166,12 +166,6 @@ python-dotenv
 - **Add Alerts**: Trigger alerts for abnormal water levels using email or SMS.
 - **Use WebSockets**: For real-time updates instead of MJPEG streaming.
 - **Improve Detection Accuracy**: Enhance the image processing logic for more accurate water level detection.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
